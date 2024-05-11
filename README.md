@@ -14,7 +14,7 @@ CVE-2020-1938 Tomcat 文件读取/包含
 
 ​	双击jar包即可运行或执行`java -jar AttackTomcat`
 
-![image-20221113190826427](https://raw.githubusercontent.com/tpt11fb/AttackTomcat/main/images/image-20221113190826427.png)
+![image-20221113190826427](https://github.com/tpt11fb/AttackTomcat/blob/main/images/image-20221113190826427.png)
 
 ![image-20221113190913584](https://raw.githubusercontent.com/tpt11fb/AttackTomcat/main/images/image-20221113190913584.png)
 
